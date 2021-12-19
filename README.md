@@ -5,7 +5,7 @@
 ## Interface
 
 <img src='./projectImages/diariesHome.png/' />
-<img src='./projectImages/diariesDashboard.png/' />
+<img src='./projectImages/diariesDashboard1.png/' />
 
 ## Mobile Interface
 
