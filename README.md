@@ -2,12 +2,6 @@
 
 ### _Diaries Manager Applciation, where Users can add and store "Public" and "Private" Diaries, and View each other's public diaries !!_
 
-### Demo Video 🔗: https://youtu.be/upgTPVDa4D4
-
-### Link 🔗 https://diaries-manager.web.app/
-
-#### Learned from: 🔗 https://youtube.com/playlist?list=PL4cUxeGkcC9iWstfXntcj8f-dFZ4UtlN3
-
 ## Interface
 
 <img src='./projectImages/diariesHome.png/' />
@@ -19,7 +13,7 @@
 
 ## Run Locally
 
-- Run this command `git clone https://github.com/developer-junaid/Diaries-App.git`
+- Run this command `git clone https://github.com/muhammadwasifarslan/diary-app.git`
 - You are now in the dev environment and you can play around
 
 ## Features
